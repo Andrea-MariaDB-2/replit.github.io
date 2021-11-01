@@ -4,6 +4,7 @@ Repl input/output testing allows a teacher to create simple tests that automatic
 
 There is also a video explanation available [here](https://www.loom.com/share/a8664cccb66342419f7d1b9d8f33c0ed).
 
+
 ## Teams for Education
 
 Input/output testing is a feature of [Teams for Education](https://teamsforeducationresources.util.repl.co). If you don't have a team yet you can create one [here](https://replit.com/teams).
@@ -165,3 +166,20 @@ When we add the code to compile the email address and run the test, we get the f
 If you don't want to be lenient of an extra newline and prefer to have a truly exact match with the expected output and actual output, you can use the `regex` with a `^` at the start and `$` at the end. Keep in mind though, that you'll have to escape the other regex characters.
 
 Test cases can be added, edited, and deleted at any time – even after the project has been published. This added flexibility allows you to get started with testing right away. 
+
+### While I/O tests work with most languages on Replit, there are just a few exceptions:
+* APL
+* Basic
+* Bloop
+* BrainF
+* Coffeescript
+* Emoticon
+* Forth
+* HTML, CSS, JS
+* Kaboom
+* Lolcode
+* Python with turtle
+* Qbasic
+* Roy
+* Scheme
+* Unlambda

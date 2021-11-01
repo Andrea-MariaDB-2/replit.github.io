@@ -58,6 +58,11 @@
         "slug": "running-github-repositories-replit"
       },
       {
+        "name": "Replit Libraries",
+        "slug": "replit-libraries"
+      },
+
+      {
         "name": "Getting started with Nix",
         "slug": "getting-started-nix"
       },
@@ -117,6 +122,10 @@
         "name": "Introduction to Teams for Education",
         "slug": "intro-teams-education"
       },
+       {
+        "name": "Getting Started Checklist",
+        "slug": "teams-edu-checklist"
+      },
       {
         "name": "Inviting teachers and students",
         "slug": "inviting-teachers-students"
@@ -136,6 +145,10 @@
       {
         "name": "Creating projects and assignments",
         "slug": "creating-projects-assignments"
+      },
+      {
+        "name": "Organizing Projects",
+        "slug": "organizing-projects"
       },
       {
         "name": "Copying projects to other teams",
@@ -173,7 +186,6 @@
         "name": "Google Classroom Integration",
         "slug": "google-classroom"
       },
-
       {
         "name": "Exporting Student Submissions",
         "slug": "exporting-student-submissions"
@@ -181,6 +193,10 @@
       {
         "name": "Archiving Teams",
         "slug": "Archiving"
+      },
+       {
+        "name": "Curriculum Hub",
+        "slug": "curriculum-hub"
       },
       {
         "name": "Privacy FAQ",
@@ -377,6 +393,30 @@
         "slug": "26-pdf-report-generator-from-spreadsheet"
       },
       {
+        "name": "Tic-tac-toe with Kaboom.js & WebSockets",
+        "slug": "27-build-tictactoe-with-websockets-kaboom"
+      },
+      {
+        "name": "Technical challenge site with Replit.web",
+        "slug": "28-technical-challenge-site"
+      },
+      {
+          "name": "Paid Content site with Replit.web",
+          "slug": "29-paid-content-site"
+      },
+      {
+        "name": "Building with Nix on Replit",
+        "slug": "30-build-with-nix"
+      },
+      {
+        "name": "Email News digest app with Nix",
+        "slug": "31-build-news-digest-app-with-nix"
+      },
+      {
+        "name": "Mario with Kaboom.js",
+        "slug": "32-build-mario-with-kaboom"
+      },
+      {
         "name": "Pinboard project part 1: HTML & CSS",
         "slug": "pinboard-project-part-1"
       },
@@ -441,6 +481,20 @@
       {
         "name": "Abstract data types",
         "slug": "abstract-data-types"
+      }
+    ]
+  },
+  {
+    "name": "Replit Books",
+    "slug": "replit-books",
+    "contents": [
+      {
+        "name": "Code with Replit",
+        "slug": "code-with-replit"
+      },
+      {
+        "name": "Learn Python the Right Way",
+        "slug": "learn-python-the-right-way"
       }
     ]
   }
